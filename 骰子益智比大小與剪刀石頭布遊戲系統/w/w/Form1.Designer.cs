@@ -43,7 +43,7 @@
             this.btnScissors.Name = "btnScissors";
             this.btnScissors.Size = new System.Drawing.Size(75, 23);
             this.btnScissors.TabIndex = 0;
-            this.btnScissors.Text = "btnScissors";
+            this.btnScissors.Text = "剪刀";
             this.btnScissors.UseVisualStyleBackColor = true;
             this.btnScissors.Click += new System.EventHandler(this.btnScissors_Click);
             // 
@@ -53,7 +53,7 @@
             this.btnRock.Name = "btnRock";
             this.btnRock.Size = new System.Drawing.Size(75, 23);
             this.btnRock.TabIndex = 1;
-            this.btnRock.Text = "btnRock";
+            this.btnRock.Text = "石頭";
             this.btnRock.UseVisualStyleBackColor = true;
             this.btnRock.Click += new System.EventHandler(this.btnRock_Click_1);
             // 
@@ -63,7 +63,7 @@
             this.btnPaper.Name = "btnPaper";
             this.btnPaper.Size = new System.Drawing.Size(75, 23);
             this.btnPaper.TabIndex = 2;
-            this.btnPaper.Text = "btnPaper";
+            this.btnPaper.Text = "布";
             this.btnPaper.UseVisualStyleBackColor = true;
             this.btnPaper.Click += new System.EventHandler(this.btnPaper_Click_1);
             // 
@@ -82,7 +82,7 @@
             this.btnStart.Name = "btnStart";
             this.btnStart.Size = new System.Drawing.Size(75, 22);
             this.btnStart.TabIndex = 4;
-            this.btnStart.Text = "btnStart";
+            this.btnStart.Text = "重新";
             this.btnStart.UseVisualStyleBackColor = true;
             this.btnStart.Click += new System.EventHandler(this.btnStart_Click);
             // 

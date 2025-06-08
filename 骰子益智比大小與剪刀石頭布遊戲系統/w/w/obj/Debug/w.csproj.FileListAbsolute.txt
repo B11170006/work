@@ -8,3 +8,13 @@ C:\Users\LIN\source\repos\w\w\obj\Debug\w.csproj.GenerateResource.cache
 C:\Users\LIN\source\repos\w\w\obj\Debug\w.csproj.CoreCompileInputs.cache
 C:\Users\LIN\source\repos\w\w\obj\Debug\w.exe
 C:\Users\LIN\source\repos\w\w\obj\Debug\w.pdb
+C:\Users\LIN\Desktop\work\骰子益智比大小與剪刀石頭布遊戲系統\w\w\bin\Debug\w.exe.config
+C:\Users\LIN\Desktop\work\骰子益智比大小與剪刀石頭布遊戲系統\w\w\bin\Debug\w.exe
+C:\Users\LIN\Desktop\work\骰子益智比大小與剪刀石頭布遊戲系統\w\w\bin\Debug\w.pdb
+C:\Users\LIN\Desktop\work\骰子益智比大小與剪刀石頭布遊戲系統\w\w\obj\Debug\w.csproj.AssemblyReference.cache
+C:\Users\LIN\Desktop\work\骰子益智比大小與剪刀石頭布遊戲系統\w\w\obj\Debug\w.Form1.resources
+C:\Users\LIN\Desktop\work\骰子益智比大小與剪刀石頭布遊戲系統\w\w\obj\Debug\w.Properties.Resources.resources
+C:\Users\LIN\Desktop\work\骰子益智比大小與剪刀石頭布遊戲系統\w\w\obj\Debug\w.csproj.GenerateResource.cache
+C:\Users\LIN\Desktop\work\骰子益智比大小與剪刀石頭布遊戲系統\w\w\obj\Debug\w.csproj.CoreCompileInputs.cache
+C:\Users\LIN\Desktop\work\骰子益智比大小與剪刀石頭布遊戲系統\w\w\obj\Debug\w.exe
+C:\Users\LIN\Desktop\work\骰子益智比大小與剪刀石頭布遊戲系統\w\w\obj\Debug\w.pdb
