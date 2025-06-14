@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\formintro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|solutionrelative:\u671F\u672B\u5831\u544A\\formintro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\formgameinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|solutionrelative:\u671F\u672B\u5831\u544A\\formgameinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\formdicegame.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|solutionrelative:\u671F\u672B\u5831\u544A\\formdicegame.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\formrpsgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|solutionrelative:\u671F\u672B\u5831\u544A\\formrpsgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|c:\\users\\lin\\downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\formintro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|solutionrelative:\u671F\u672B\u5831\u544A\\formintro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\formhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|solutionrelative:\u671F\u672B\u5831\u544A\\formhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\formhistory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|solutionrelative:\u671F\u672B\u5831\u544A\\formhistory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\formrpsgame.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|solutionrelative:\u671F\u672B\u5831\u544A\\formrpsgame.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\formintro.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|solutionrelative:\u671F\u672B\u5831\u544A\\formintro.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\formgameinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|solutionrelative:\u671F\u672B\u5831\u544A\\formgameinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\formintro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|solutionrelative:\u671F\u672B\u5831\u544A\\formintro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\formdicegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|solutionrelative:\u671F\u672B\u5831\u544A\\formdicegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\formrpsgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|solutionrelative:\u671F\u672B\u5831\u544A\\formrpsgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\formhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|solutionrelative:\u671F\u672B\u5831\u544A\\formhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\formgameinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|solutionrelative:\u671F\u672B\u5831\u544A\\formgameinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|solutionrelative:\u671F\u672B\u5831\u544A\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|solutionrelative:\u671F\u672B\u5831\u544A\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|solutionrelative:\u671F\u672B\u5831\u544A\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98622686-22BC-4068-B24F-4D8E09490872}|\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A.csproj|solutionrelative:\u671F\u672B\u5831\u544A\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormIntro.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\FormIntro.Designer.cs",
+              "RelativeDocumentMoniker": "\u671F\u672B\u5831\u544A\\FormIntro.Designer.cs",
+              "ToolTip": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\FormIntro.Designer.cs",
+              "RelativeToolTip": "\u671F\u672B\u5831\u544A\\FormIntro.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:33:01.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormGameInfo.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\FormGameInfo.cs",
+              "RelativeDocumentMoniker": "\u671F\u672B\u5831\u544A\\FormGameInfo.cs",
+              "ToolTip": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\FormGameInfo.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "\u671F\u672B\u5831\u544A\\FormGameInfo.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T11:33:13.073Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormHistory.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\FormHistory.cs",
+              "RelativeDocumentMoniker": "\u671F\u672B\u5831\u544A\\FormHistory.cs",
+              "ToolTip": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\FormHistory.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "\u671F\u672B\u5831\u544A\\FormHistory.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:32:17.947Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormDiceGame.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\FormDiceGame.Designer.cs",
+              "RelativeDocumentMoniker": "\u671F\u672B\u5831\u544A\\FormDiceGame.Designer.cs",
+              "ToolTip": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\FormDiceGame.Designer.cs",
+              "RelativeToolTip": "\u671F\u672B\u5831\u544A\\FormDiceGame.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:33:20.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormRPSGame.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\FormRPSGame.cs",
+              "RelativeDocumentMoniker": "\u671F\u672B\u5831\u544A\\FormRPSGame.cs",
+              "ToolTip": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\FormRPSGame.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "\u671F\u672B\u5831\u544A\\FormRPSGame.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:31:53.749Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormIntro.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\FormIntro.cs",
+              "RelativeDocumentMoniker": "\u671F\u672B\u5831\u544A\\FormIntro.cs",
+              "ToolTip": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\FormIntro.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "\u671F\u672B\u5831\u544A\\FormIntro.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:30:26.741Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormHistory.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\FormHistory.Designer.cs",
+              "RelativeDocumentMoniker": "\u671F\u672B\u5831\u544A\\FormHistory.Designer.cs",
+              "ToolTip": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\FormHistory.Designer.cs",
+              "RelativeToolTip": "\u671F\u672B\u5831\u544A\\FormHistory.Designer.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:34:07.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormRPSGame.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\FormRPSGame.Designer.cs",
+              "RelativeDocumentMoniker": "\u671F\u672B\u5831\u544A\\FormRPSGame.Designer.cs",
+              "ToolTip": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\FormRPSGame.Designer.cs",
+              "RelativeToolTip": "\u671F\u672B\u5831\u544A\\FormRPSGame.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:33:46.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormIntro.resx",
+              "DocumentMoniker": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\FormIntro.resx",
+              "RelativeDocumentMoniker": "\u671F\u672B\u5831\u544A\\FormIntro.resx",
+              "ToolTip": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\FormIntro.resx",
+              "RelativeToolTip": "\u671F\u672B\u5831\u544A\\FormIntro.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-12T07:34:10.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormGameInfo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\FormGameInfo.Designer.cs",
+              "RelativeDocumentMoniker": "\u671F\u672B\u5831\u544A\\FormGameInfo.Designer.cs",
+              "ToolTip": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\FormGameInfo.Designer.cs",
+              "RelativeToolTip": "\u671F\u672B\u5831\u544A\\FormGameInfo.Designer.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAD8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T11:33:25.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormIntro.cs",
+              "DocumentMoniker": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\FormIntro.cs",
+              "RelativeDocumentMoniker": "\u671F\u672B\u5831\u544A\\FormIntro.cs",
+              "ToolTip": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\FormIntro.cs",
+              "RelativeToolTip": "\u671F\u672B\u5831\u544A\\FormIntro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:30:56.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormDiceGame.cs",
+              "DocumentMoniker": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\FormDiceGame.cs",
+              "RelativeDocumentMoniker": "\u671F\u672B\u5831\u544A\\FormDiceGame.cs",
+              "ToolTip": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\FormDiceGame.cs",
+              "RelativeToolTip": "\u671F\u672B\u5831\u544A\\FormDiceGame.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:31:28.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormHistory.cs",
+              "DocumentMoniker": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\FormHistory.cs",
+              "RelativeDocumentMoniker": "\u671F\u672B\u5831\u544A\\FormHistory.cs",
+              "ToolTip": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\FormHistory.cs",
+              "RelativeToolTip": "\u671F\u672B\u5831\u544A\\FormHistory.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwv04AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:32:18.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormRPSGame.cs",
+              "DocumentMoniker": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\FormRPSGame.cs",
+              "RelativeDocumentMoniker": "\u671F\u672B\u5831\u544A\\FormRPSGame.cs",
+              "ToolTip": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\FormRPSGame.cs",
+              "RelativeToolTip": "\u671F\u672B\u5831\u544A\\FormRPSGame.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAADwv4gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:31:54.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormGameInfo.cs",
+              "DocumentMoniker": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\FormGameInfo.cs",
+              "RelativeDocumentMoniker": "\u671F\u672B\u5831\u544A\\FormGameInfo.cs",
+              "ToolTip": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\FormGameInfo.cs",
+              "RelativeToolTip": "\u671F\u672B\u5831\u544A\\FormGameInfo.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T11:33:17.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\Program.cs",
+              "RelativeDocumentMoniker": "\u671F\u672B\u5831\u544A\\Program.cs",
+              "ToolTip": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\Program.cs",
+              "RelativeToolTip": "\u671F\u672B\u5831\u544A\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:32:44.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\Form1.cs",
+              "RelativeDocumentMoniker": "\u671F\u672B\u5831\u544A\\Form1.cs",
+              "ToolTip": "C:\\Users\\12345\\source\\repos\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\12345\\source\\repos\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:29:41.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "\u671F\u672B\u5831\u544A\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\Form1.Designer.cs",
+              "RelativeToolTip": "\u671F\u672B\u5831\u544A\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:36:11.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\Form1.cs",
+              "RelativeDocumentMoniker": "\u671F\u672B\u5831\u544A\\Form1.cs",
+              "ToolTip": "C:\\Users\\LIN\\Downloads\\\u671F\u672B\u5831\u544A1.1\\\u671F\u672B\u5831\u544A1.0\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\\u671F\u672B\u5831\u544A\\Form1.cs",
+              "RelativeToolTip": "\u671F\u672B\u5831\u544A\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:30:51.98Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
